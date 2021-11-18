@@ -1,2 +1,2 @@
 # Vidéothèque-v2
-![MaquetteVideotheque2](https://user-images.githubusercontent.com/85608576/142345823-43b46355-d1cc-4d8a-a8ae-0ecdd1e48be6.png)
+![Capture d’écran 2021-11-18 062203](https://user-images.githubusercontent.com/85608576/142346001-a1c5f4ae-bb4f-4eaa-87d6-774f87e1c6fe.png)
